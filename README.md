@@ -28,7 +28,7 @@ This project analyzes sales order data using **Python (pandas)** and **SQL (MySQ
 
 ## 🖼️ Screenshots
   ### 🖼️ Top 10 Selling Products
-![Top 10 Products](top_10.png)
+![Top 10 Products](Top_10.png)
 
 ### 📈 Month-over-Month Sales Comparison
 ![Month to Month](month_to_month.png)
