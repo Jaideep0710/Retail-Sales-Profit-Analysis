@@ -26,6 +26,17 @@ This project analyzes sales order data using **Python (pandas)** and **SQL (MySQ
 - `orders.csv` – Cleaned dataset
 - `sql_queris.sql` – All SQL queries used
 
+## 🖼️ Screenshots
+  ### 🖼️ Top 10 Selling Products
+![Top 10 Products](top_10.png)
+
+### 📈 Month-over-Month Sales Comparison
+![Month to Month](month_to_month.png)
+
+### 🧹 Data Cleaning Summary (Notebook)
+![Notebook](notebook_summary.png)
+
+
 ## 🙏 Credits
 Project inspired by Ankit Bansal's YouTube tutorial.
 
