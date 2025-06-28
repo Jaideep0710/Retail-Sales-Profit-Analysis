@@ -33,9 +33,8 @@ This project analyzes sales order data using **Python (pandas)** and **SQL (MySQ
 ### 📈 Month-over-Month Sales Comparison
 ![Month to Month](month_to_month.png)
 
-### 🧹 Data Cleaning Summary (Notebook)
-![Notebook](notebook_summary.png)
-
+### Data Cleaning in Notebook
+![Notebook](df_read_column.png)
 
 ## 🙏 Credits
 Project inspired by Ankit Bansal's YouTube tutorial.
