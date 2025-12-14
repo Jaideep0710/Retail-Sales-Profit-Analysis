@@ -39,7 +39,7 @@ This project analyzes sales order data using **Python (pandas)** and **SQL (MySQ
 retail-analytics-powerbi-dashboard
 📊 Retail Sales & Profit Analysis Dashboard – Power BI This project presents an interactive dashboard built in Power BI to analyze retail sales and profitability across various categories, regions, and time periods.
 
-![Notebook](retail-analytics-powerbi dashboard.png)
+![DashBoard](retail_analytics_powerbi_dashboard.png)
 
 🔧 Features: 📅 Filter by Year, State, and City
 
